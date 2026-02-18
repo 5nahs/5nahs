@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nahs — FiveM Developer</h1>
+<h1 align="left">Hi 👋, I'm nahs — FiveM Developer</h1>
 <h3 align="left">Lua Developer | UI & Systems Programming | Database & Security</h3>
 
 - 🚀 Specialized in **FiveM development**, building scalable and optimized server systems  

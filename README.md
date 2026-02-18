@@ -1,18 +1,18 @@
-<h1 align="left">Hi 👋, I'm nahs — FiveM Developer</h1>
-<h3 align="left">Lua Developer | UI & Systems Programming | Database & Security</h3>
+<h1 align="left">Hi 👋, I'm nahs</h1>
+<h3 align="left">Programmer</h3>
 
-- 🚀 Specialized in **FiveM development**, building scalable and optimized server systems  
+- 🚀 I'm a programmer focused on building scalable and optimized software systems  
 - 💻 Strong experience with **Lua, SQL work, MariaDB, HTML, CSS**, and **a little JavaScript**  
 - 🧩 Expanding into **C++, C#, and Python**  
 - 🎮 Currently learning **shader languages and 3D Graphics APIs**  
 - 🔐 Knowledge in **computer security and software/system administration**  
 - ⚙️ Focused on clean architecture, performance, and maintainable code  
-- 🤝 Open to collaboration on advanced **FiveM scripting, UI, and engine-level projects**  
+- 🤝 Open to collaboration on advanced software and systems-level projects  
 - 💬 Contact: **DM me on Discord @nahs.**
 
 ---
 
-<h3 align="left">Languages & Technologies</h3>
+<h3 align="left">Languages and Technologies</h3>
 <p align="left">
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>

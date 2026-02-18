@@ -1,23 +1,18 @@
-<h1 align="left">Hi 👋, I'm nahs a Backend Developer</h1>
-<h3 align="left">Programmer Focused on Systems, Databases & Graphics</h3>
+<h1 align="left">Hi 👋, I'm nahs</h1>
+<h3 align="left">A Backend & Systems Developer</h3>
 
-- 🚀 I'm a backend developer focused on building scalable and optimized software systems  
-
-- 💻 Strong experience with: **Lua, mySQL work, MariaDB, HTML, CSS, a little JavaScript**
-
-- 🧩 Expanding into: **C++, C#, Python**
-
-- 🎮 Currently learning: **Shader languages and 3D Graphics APIs**
-
-- 🔐 Knowledge in: **Computer security and software/system administration**
-
-- 🤝 Open to collaborating on advanced software and systems-level projects  
-
-- 💬 How to reach me: **DM me on Discord @nahs.**
+- 🚀 I'm a programmer focused on building scalable and optimized software systems  
+- 💻 Strong experience with **Lua, mySQL, MariaDB, HTML, CSS**, and **a little JavaScript**  
+- 🧩 Expanding into **C++, C#, and Python**  
+- 🎮 Currently learning **shader languages and 3D Graphics APIs**  
+- 🔐 Knowledge in **computer security and software/system administration**  
+- ⚙️ Focused on clean architecture, performance, and maintainable code  
+- 🤝 Open to collaboration on advanced software and systems-level projects  
+- 💬 Contact: **DM me on Discord @nahs.**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Technologies</h3>
 <p align="left">
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
@@ -34,6 +29,9 @@
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   </a>
@@ -47,6 +45,4 @@
 
 ---
 
-<p align="left">
-  <i>"Build systems that are secure, scalable, and built to last."</i>
-</p>
+<p align="left"><i>Grind now, sleep later.</i></p>

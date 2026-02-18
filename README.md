@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm nahs</h1>
 <h3 align="left">A Backend & Systems Developer</h3>
 
-- 🚀 I'm a programmer focused on building scalable and optimized software systems  
+- 🚀 I'm a developer focused on building scalable and optimized software systems  
 - 💻 Strong experience with **Lua, mySQL, MariaDB, HTML, CSS**, and **a little JavaScript**  
 - 🧩 Expanding into **C++, C#, and Python**  
 - 🎮 Currently learning **shader languages and 3D Graphics APIs**  

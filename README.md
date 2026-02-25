@@ -1,19 +1,4 @@
-<h1 align="left">Hi 👋, I'm nahs</h1>
-<h3 align="left">A Backend & Systems Developer</h3>
 
-- 🚀 I'm a developer focused on building scalable and optimized software systems  
-- 💻 Strong experience with **Lua, mySQL, MariaDB, HTML, CSS**, and **a little JavaScript**  
-- 🧩 Expanding into **C++, C#, and Python**  
-- 🎮 Currently learning **shader languages and 3D Graphics APIs**  
-- 🔐 Knowledge in **computer security and software/system administration**  
-- ⚙️ Focused on clean architecture, performance, and maintainable code  
-- 🤝 Open to collaboration on advanced software and systems-level projects  
-- 💬 Contact: **DM me on Discord @nahs.**
-
----
-
-<h3 align="left">Languages and Technologies</h3>
-<p align="left">
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   </a>
